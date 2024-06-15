@@ -1,7 +1,5 @@
 # 💫About Me :
-I'm currently working on developing new and special FiveM scripts, with highest quality
-
-Knowledge: Fivem-Lua, C/C++, Python, C#, Java
+Currently working on everything
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/w__m) 
